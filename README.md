@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Faisal-Alotaibi
-- 👀 I’m interested in <> Game devlopment & AI!
+- 👀 I’m interested in <> SWE & AI!
 - 📫 How to reach me <> faisalota@gmail.com
 
 <!---
